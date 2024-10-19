@@ -5,7 +5,7 @@ const HomePage = ({ togglefunc }) => {
     <div className="flex items-center mt-20 max-w-6xl gap-8 m-auto">
       <img
         style={{ height: "410px" }}
-        src="../Dices.png"
+        src="../Dices"
         alt=""
       />
       <div className="flex min-w-56 flex-col gap-5 items-end">
